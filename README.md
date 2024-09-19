@@ -13,7 +13,7 @@ Lehigh University
 - Bachelor of Software Engineering, South China University of Tech.
 
 ## Research Interests
-- Computer Vision Safety
+- AI Safety
 - Natural Language Processing
 - Large Language Models
 
